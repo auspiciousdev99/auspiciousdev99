@@ -29,8 +29,7 @@
 - Backend Engineering
 - System Design
 - Cryptocurrency
-- GameFi
-- VR/AR
+- Data Extraction
 
 ### Contact
 <a href="https://www.linkedin.com/in/auspiciousdev99-5928b9a6/" target="_blank">
