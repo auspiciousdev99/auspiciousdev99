@@ -23,7 +23,7 @@
 <p align="center"> 
   <img src="https://github-readme-stats.vercel.app/api?username=auspiciousdev99&count_private=true&show_icons=true&theme=apprentice" alt="github states"> 
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=auspiciousdev99&exclude_repo=auspiciousdev99.github.io&layout=compact&theme=apprentice" alt="Top langs">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=auspiciousdev99&layout=compact&theme=apprentice" alt="Top langs">
 </p>
 
 ### Interests
